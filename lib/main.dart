@@ -1,5 +1,5 @@
 import 'package:first/my_home.dart';
-import 'package:first/signup.dart';   
+import 'package:first/signup.dart';
 import 'package:flutter/material.dart';
 
 void main() {
