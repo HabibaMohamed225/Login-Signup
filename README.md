@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a simple mobile app built using Flutter, which contains two main screens:
 Login Page (MyHomePage)
 Sign Up Page  (SignUpPage)
@@ -29,3 +30,6 @@ Navigator.push(
   context,
   MaterialPageRoute(builder: (context) => SignUpPage(title: '')),
 );
+=======
+# Login-Signup
+>>>>>>> 27b8da86d29deba10752016f813043c1a9b86914
